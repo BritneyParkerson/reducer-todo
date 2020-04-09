@@ -2,19 +2,9 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
+.header {
+  background: linear-gradient(to top, #e7627d 0%, #b8235a 20%, #801357 40%, #3d1635 70%, #1c1a27 100%);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
